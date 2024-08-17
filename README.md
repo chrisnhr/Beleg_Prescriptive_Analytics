@@ -1,0 +1,1 @@
+Using a Variable Neighbourhood Search implemented via a Solver Architecture to solve an Orienteering Problem.
